@@ -7,5 +7,5 @@ Sometimes it's hard to find Windows font in Linux, for example especially when t
 1. In terminal, clone this repo : git clone https://github.com/alb-soul/win10fonts.git (if clone failed, try to download as zip then extract it)
 2. cd win10fonts/Win10fonts/
 3. Ensure you have "fonts" folder in ~/.local/share/, it not yet, create it by excute : mkdir ~/.local/share/fonts
-4. In current win10fonts directory, copy all files to ~/.local/share/fonts folder : cp * ~/.local/share/fonts
+4. In current Win10fonts directory, copy all files to ~/.local/share/fonts folder : cp * ~/.local/share/fonts
 5. You can check then if the fonts was available
